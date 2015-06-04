@@ -1,4 +1,5 @@
 public class Square extends Shape {
+    
     protected double A;  // πλάτος 
     
     public double getEmv(){
